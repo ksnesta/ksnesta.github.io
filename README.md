@@ -1,2 +1,2 @@
 # ksnesta.github.io
-Site personnel académique
+Personal academic website
